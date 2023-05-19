@@ -1,5 +1,7 @@
-[![MasterHead](https://media.tenor.com/1GFGoqTI4F0AAAAC/welcome-to-the-team-minions.gif)]
-<h1 align="center">Hi 👋, I'm Saurebey??</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Saurab+Baral" alt="Typing SVG">
+</div>
+
 <h3 align="center">Translating Ideas into Digital Realities: My Love Affair with Bits and Coding!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/media/b0b58ffa7bd7542a0445f0bbaffb2c9a.gif">
 
