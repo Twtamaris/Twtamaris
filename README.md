@@ -23,6 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twtamaris&show_icons=true&locale=en&layout=compact" alt="twtamaris" /></p>
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=twtamaris&theme=radical"
-        alt="twtamaris" class="bgb"></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saurab ??)](https://git.io/streak-stats)
